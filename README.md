@@ -17,9 +17,7 @@
 <div align="center">
 
 ## 🧊 GitHub Performance
-
-<img src="https://github-readme-stats.vercel.app/api?username=sesachintha&show_icons=true&theme=transparent&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF&hide_border=true" height="180"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=sesachintha&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF&hide_border=true" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sesachintha&theme=transparent&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&hide_border=true" height="180"/>
 
 </div>
