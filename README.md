@@ -14,23 +14,15 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sesachintha&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=sesachintha&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sesachintha&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
 
 <br><br>
 
-<!-- Programming Languages -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sesachintha&theme=github_dark" />
-
-<br><br>
-
-<!-- Contribution + Streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=sesachintha&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sesachintha&theme=github-dark-blue&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesachintha&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
-
 ---
 
 ## 📈 Contribution Activity
