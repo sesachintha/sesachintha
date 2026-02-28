@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 # 👋 Hi, I'm Sachintha Dinesh
@@ -12,23 +10,34 @@
 
 ---
 
-<br>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-## 🧊 GitHub Performance
-<img src="https://github-readme-stats.vercel.app/api?username=sesachintha&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF&hide_border=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sesachintha&theme=transparent&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&hide_border=true" height="180"/>
+<!-- GitHub Stats Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sesachintha&theme=github_dark" />
+
+<br><br>
+
+<!-- Programming Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sesachintha&theme=github_dark" />
+
+<br><br>
+
+<!-- Contribution + Streak -->
+<img src="https://github-readme-stats.vercel.app/api?username=sesachintha&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sesachintha&theme=github-dark-blue&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-## 📊 Language Analytics
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesachintha&layout=compact&theme=transparent&title_color=00F5FF&text_color=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sesachintha&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true"/>
 
 </div>
 
@@ -64,19 +73,9 @@
 
 ---
 
-<div align="center">
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sesachintha&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🏆 Achievements
+
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=sesachintha&theme=algolia&no-frame=true&row=1&column=6"/>
 
@@ -84,9 +83,9 @@
 
 ---
 
-<div align="center">
-
 ## 👀 Profile Views
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=sesachintha&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
 
@@ -94,9 +93,9 @@
 
 ---
 
-<div align="center">
-
 ## 🌍 Connect With Me
+
+<div align="center">
 
 <a href="https://linkedin.com/in/sachintha-dinesh-982917258">
 <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
